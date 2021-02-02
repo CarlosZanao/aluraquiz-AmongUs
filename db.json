@@ -1,45 +1,30 @@
 {
-  "bg": "https://www.hitalent.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1452099b706ad7d079f7a3a4dd5d702ebeeae45f/HiTalent.png",
-  "title": "Quiz JavaScript #AluraQuiz",
-  "description": "Um quiz rápido sobre o mundo do JavaScript",
+  "bg": "https://wallpapercave.com/wp/wp7552565.jpg",
+  "title": "Quiz Among US",
+  "description": "Teste os seus conhecimentos sobre está fantástica obra de arte chamada Among Us",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
-      "description": "Pergunta fácil em!",
-      "answer": 1,
+      "image": "https://media.giphy.com/media/yAnC4g6sUpX0MDkGOg/giphy.gif",
+      "title": "Qual o ano de criação do jogo?",
+      "description": "Essa é para os reais fans",
+      "answer": 2 ,
       "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+        "2010",
+        "2017",
+        "2018",
+        "2020"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
-      "description": "E agora? Você sabe?",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/S7nF0HAVEBxUu76pxR/giphy.gif",
+      "title": "Em qual pais o jogo foi criado?",
+      "description": "",
+      "answer": 3,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a diferença de window e global?",
-      "answer": 1,
-      "alternatives": [
-        "São a mesma coisa",
-        "window é o escopo global no browser, e global no node"
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
-      "answer": 1,
-      "alternatives": [
-        "JSONHttpRequest",
-        "XMLHttpRequest",
-        "fetch"
+        "Brasil",
+        "Canada",
+        "Italia",
+        "Estados Unidos"
       ]
     }
   ],
@@ -49,8 +34,8 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#222222",
-      "secondary": "#e89c3f",
+      "primary": "#0e4686",
+      "secondary": "#ff3d00",
       "mainBg": "#213f4e",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
