@@ -1,5 +1,5 @@
 {
-  "bg": "https://wallpapercave.com/wp/wp7552565.jpg",
+  "bg": "https://github.com/CarlosZanao/aluraquiz-AmongUs/blob/develop/public/among.png?raw=true",
   "title": "Quiz Among US",
   "description": "Teste os seus conhecimentos sobre está fantástica obra de arte chamada Among Us",
   "questions": [
@@ -26,6 +26,18 @@
         "Italia",
         "Estados Unidos"
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/z3ZzHIN66i7X6KAbxh/giphy.gif",
+      "title": "Qual é a desenvolvedora do Among Us",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "InnerSloth",
+        "EA",
+        "Konami",
+        "Rockstar Games"
+      ]
     }
   ],
   "external": [
@@ -34,9 +46,9 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#0e4686",
-      "secondary": "#ff3d00",
-      "mainBg": "#213f4e",
+      "primary": "#F24405",
+      "secondary": "#F2A413",
+      "mainBg": "Black",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
