@@ -43,6 +43,7 @@ export default function Home() {
           AluraQuiz -
           {db.title}
         </title>
+        <meta property="og:image" content={db.bg} />
       </Head>
       <QuizContainer>
         <QuizLogo />
